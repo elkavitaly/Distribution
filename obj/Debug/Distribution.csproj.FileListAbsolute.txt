@@ -1,0 +1,20 @@
+C:\Users\Виталий\source\repos\Statistic\Distribution.cs\bin\Debug\Distribution.cs.exe.config
+C:\Users\Виталий\source\repos\Statistic\Distribution.cs\bin\Debug\Distribution.cs.exe
+C:\Users\Виталий\source\repos\Statistic\Distribution.cs\bin\Debug\Distribution.cs.pdb
+C:\Users\Виталий\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.cs.Properties.Resources.resources
+C:\Users\Виталий\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.csproj.GenerateResource.Cache
+C:\Users\Виталий\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.cs.exe
+C:\Users\Виталий\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.cs.pdb
+C:\Users\Виталий\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.Form1.resources
+D:\Disc C\Users\source\repos\Statistic\Distribution.cs\bin\Debug\Distribution.cs.exe.config
+D:\Disc C\Users\source\repos\Statistic\Distribution.cs\bin\Debug\Distribution.cs.exe
+D:\Disc C\Users\source\repos\Statistic\Distribution.cs\bin\Debug\Distribution.cs.pdb
+D:\Disc C\Users\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.csprojAssemblyReference.cache
+D:\Disc C\Users\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.Form1.resources
+D:\Disc C\Users\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.cs.Properties.Resources.resources
+D:\Disc C\Users\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.csproj.GenerateResource.cache
+D:\Disc C\Users\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.csproj.CoreCompileInputs.cache
+D:\Disc C\Users\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.cs.exe
+D:\Disc C\Users\source\repos\Statistic\Distribution.cs\obj\Debug\Distribution.cs.pdb
